@@ -1,9 +1,7 @@
 import React from "react";
 
 import "./css/Card.css"
-
 import { ImSpades, ImClubs, ImDiamonds, ImHeart } from "react-icons/im";
-
 
 export default function Card({suit, name, heap=false, onSelect, visible=false,playable=false}) {
     return (

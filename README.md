@@ -1,4 +1,4 @@
-# react-cards-prsi
+# React Prší (React Prsi card game)
 super simple (approx 300 lines of code) version of the Czech classic card game "Prší"
 
 Implementovaná pravidla
@@ -21,3 +21,5 @@ in the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+<img width="795" alt="Snímek obrazovky 2021-09-29 v 17 29 13" src="https://user-images.githubusercontent.com/90913755/135301162-3aa4acff-284e-4de5-8df7-3ae007f6954d.png">

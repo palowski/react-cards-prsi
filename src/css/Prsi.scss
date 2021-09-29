@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(57, 127, 185);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+button {
+    background-color: #fff;
+    border: 3px solid #fff;
+    box-shadow: 10px 10px 6px #444;
+    font-size: 1.5rem;
+    padding: 1rem;
+    border-radius: 20px;
+}
+h1 {font-weight: 100;font-size: 5rem;color:#fff;margin-bottom: 0px;}
+h3 {font-size: 2rem; font-weight:100; color: #fff;margin: 0;margin-bottom: 10px;}
+.Prsi {
+    .name {font-size: 2rem; }
+    .extraControls {
+        position: absolute;
+        left:500px;
+        top:130px;
+    }
+}
